@@ -26,5 +26,6 @@ and simplify backend development.
 - Created `EmployeeDTO` to transfer data between client and server
 - Used JSON serialization/deserialization
 
+Day02 completed successfully
 
 
